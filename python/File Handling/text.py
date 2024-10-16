@@ -1,0 +1,6 @@
+newfile = open("Text File.txt", "w")
+newfile.write("Hola world\n")
+newfile.write("hola\nworld\n")
+newfile.write("hola\n")
+newfile.write("nomore")
+newfile.close("Text File.txt")
